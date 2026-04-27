@@ -1,0 +1,15 @@
+# Secret keys
+.env
+.env.*
+api_key.txt
+credentials.json
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Optional: large datasets
+*.csv
+*.xlsx
